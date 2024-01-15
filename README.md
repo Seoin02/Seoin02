@@ -13,7 +13,7 @@
  <a href="https://www.instagram.com/seoin02/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
   <a href="mailto:seoin2269@naver.com" target="_blank">
- <img src="https://img.shields.io/badge/parkjiyun3706@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/seoin2269@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
  </a>
 <br/>
 <br/>
