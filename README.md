@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
- <h4>✨ Call Me ✨ </h4>
+ <h4>✨ Contact Me ✨ </h4>
  <a href="https://www.instagram.com/seoin02/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
   <a href="mailto:seoin2269@naver.com" target="_blank">
