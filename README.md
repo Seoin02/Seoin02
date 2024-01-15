@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
  <h4>✨ Contact Me ✨ </h4>
- <a href="https://www.instagram.com/seoin02/" target="_blank">
+ <a href="https://www.instagram.com/seoin10/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
   <a href="mailto:seoin2269@naver.com" target="_blank">
  <img src="https://img.shields.io/badge/seoin2269@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
