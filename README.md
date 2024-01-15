@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
   <a href="mailto:seoin2269@naver.com" target="_blank">
  <img src="https://img.shields.io/badge/parkjiyun3706@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
- </div></a>
+ </a>
+<br/>
 <br/>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoin02&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoin02&layout=compact)
+
+</div>
