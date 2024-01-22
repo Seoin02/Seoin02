@@ -18,6 +18,6 @@
 <br/>
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seoin1002)]([https://velog.io/@seoin1002/2024%EB%85%84-1%EC%9B%94-%EB%AA%A9%ED%91%9C](https://velog.io/@seoin1002/posts)https://velog.io/@seoin1002/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seoin1002)](https://velog.io/@seoin1002/posts)
 
 </div>
