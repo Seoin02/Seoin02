@@ -20,7 +20,4 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seoin1002)](https://velog.io/@seoin1002/posts)
 
-![Seoin's github stats](https://github-readme-stats.vercel.app/api?username=Seoin02&show_icons=true&theme=tokyonight)
-
-
 </div>
