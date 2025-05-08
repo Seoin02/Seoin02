@@ -1,8 +1,8 @@
 <div align=center>
 
-### Hello, my name is Seoin!
+<h1>Hello, my name is Seoin!</h1>
  
- <h4>✨ TECH STACK & TOOLS ✨  </h4>
+ <h2>✨ TECH STACK & TOOLS ✨  </h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -15,6 +15,8 @@
 <br/>
 <br/>
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=이서인)](https://www.codenary.co.kr/user-profile/detail/이서인?github_ride=true&utm_source=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seoin1002)](https://velog.io/@seoin1002/posts)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoin02)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
