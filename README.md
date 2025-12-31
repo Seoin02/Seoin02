@@ -16,7 +16,5 @@
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seoin1002)](https://velog.io/@seoin1002/posts)
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoin02)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
